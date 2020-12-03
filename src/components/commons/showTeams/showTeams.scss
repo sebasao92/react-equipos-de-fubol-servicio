@@ -1,0 +1,15 @@
+.show-teams {
+    &__team-wrapper{
+        justify-content: space-between;
+    }
+
+    &__team-Name{
+        padding: 30px;
+        font-size: 40px;
+    }
+
+    &__image{
+        height: 500px;
+        width: 500px;
+    }
+}
